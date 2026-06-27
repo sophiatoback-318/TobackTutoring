@@ -1,0 +1,7 @@
+:root {
+  --navy: #1B2A41;
+  --gold: #C9A84C;
+  --cream: #FAF8F4;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: system-ui, -apple-system, sans-serif; background: var(--cream); color: var(--navy); }
